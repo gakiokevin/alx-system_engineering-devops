@@ -1,2 +1,2 @@
 #!/bin/bash
-pwd > uniq | mv > /tmp/u
+/tmp/u<  uniq |mv < pwd
