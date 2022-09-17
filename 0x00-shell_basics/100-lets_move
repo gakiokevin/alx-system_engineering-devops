@@ -1,2 +1,2 @@
 #!/bin/bash
-/tmp/u < mv file | uniq file  < pwd 
+mv [A-Z]* /tmp/u
