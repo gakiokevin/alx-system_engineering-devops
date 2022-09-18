@@ -10,3 +10,4 @@ script that copies all the HTML files from the current working directory to the 
 A script that create a symbolic link to /bin/ls, named __ls__
  A script that delete the directory my_first_directory that is in the /tmp directory.
 A script that delete the file betty.
+A script that display current directory contents
