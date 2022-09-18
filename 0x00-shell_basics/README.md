@@ -11,3 +11,4 @@ A script that create a symbolic link to /bin/ls, named __ls__
  A script that delete the directory my_first_directory that is in the /tmp directory.
 A script that delete the file betty.
 A script that display current directory contents
+ A script of moving the file betty from /tmp/ to /tmp/my_first_directory.
