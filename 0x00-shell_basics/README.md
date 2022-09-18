@@ -12,3 +12,4 @@ A script that create a symbolic link to /bin/ls, named __ls__
 A script that delete the file betty.
 A script that display current directory contents
  A script of moving the file betty from /tmp/ to /tmp/my_first_directory.
+ a command that lists all the files and directories of the current directory, separated by commas (,).
