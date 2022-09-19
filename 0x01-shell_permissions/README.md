@@ -12,3 +12,4 @@ Owner: no permission at all
 Group: no permission at all
 
 Other users: all the permissions 
+ a script that switches the current user to the user betty.
