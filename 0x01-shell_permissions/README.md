@@ -13,3 +13,8 @@ Group: no permission at all
 
 Other users: all the permissions 
  a script that switches the current user to the user betty.
+a script that prints all the groups the current user is part of>>README.md
+echo  a script that prints all the groups the current user is part of>>README.md
+  
+echo  a script that prints all the groups the current user is part of
+a script that prints all the groups the current user is part of
