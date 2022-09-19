@@ -21,3 +21,4 @@ a script that prints all the groups the current user is part of
 script that changes the owner of the file hello to the user betty.
 A script that sets the mode of the file hello
 script that sets the mode of the file hello the same as olleh’s mode.
+ script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users
