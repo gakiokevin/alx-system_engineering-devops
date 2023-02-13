@@ -15,3 +15,4 @@ And hidden files (starting with .)
  Betty in my first directory  
  Delete the file betty.
  Deleting  the directory my_first_directory that is in the /tmp directory 
+  a script that changes the working directory to the previous one 
