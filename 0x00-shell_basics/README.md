@@ -19,3 +19,4 @@ And hidden files (starting with .)
  a script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format. 
 a symbolic link to /bin/ls, named __ls__. The symbolic link should be created in the current working directory 
 copies all the HTML files from the current working directory to the parent of the working directory,
+a script that deletes all files in the current working directory that end with the character 
